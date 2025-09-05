@@ -36,6 +36,10 @@ function CreateTrip() {
               <Input type="number" placeholder="Example: 3" className="mt-2 selection:border-blue-600 rounded-md p-2" />
             </div>
         </div>
+
+        <div>
+          <h2 className="text-xl my-3 font-medium">What's your budget?</h2>
+        </div>
       </div>
     </div>
   );
